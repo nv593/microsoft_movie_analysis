@@ -69,13 +69,12 @@ Please view full analysis in [Jupyter Notebook](https://github.com/nv593/microso
 ### Repository Structure
 
 ```
-├── README.md
-├── Movie Analysis.pdf
-├── movie-analysis.ipynb
 ├── Graphs
 ├── Genre_VS_Gross.png
 ├── Profit_VS_Budget.png
 ├── Profit_VS_Budget_1.png
 ├── Release_Month.png
-└── zippedData
-
+├── zippedData
+├── Movie_Analysis.pdf
+├── README.md
+├── movie-analysis.ipynb
