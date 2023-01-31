@@ -17,6 +17,7 @@ Once the data was imported, I started to clean the data to help make a proper an
 
 ## Results
 
+
 #Gross sales by release month
 
 
