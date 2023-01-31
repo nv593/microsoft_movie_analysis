@@ -17,21 +17,20 @@ Once the data was imported, I started to clean the data to help make a proper an
 
 ## Results
 
-
-#Gross sales by release month
+# Gross sales by release month
 
 
 ![graphs](./Graphs/Release_Month.png)
 
 Based on our graph we can see towards the summer month there is a rise in worldwide gross sales based on our release months rising. June is the month with the highest gross sales, with a mean in June is 214 million. Proving to us it is a great month to release a movie. A month not to release a movie with a mean only of 62 million in September. Not only is it the lowest month, but it is also less than half of June's gross sales worldwide
 
-#Genre Vs Gross
+# Genre Vs Gross
 
 ![graphs](./Graphs/Genre_VS_Gross.png)
 
 Adventure movies have the highest worldwide gross sales at 347 million vs other movies genre. Even though alot of movies are drama movies, they fall under the first quartile of 74 million. 25% of our data falls below the 74 million which is not a good spot to be when a movie is trying to make the most worldwide gross sales. A adventure genre movie has a better chance fo success. Even animation with 323 million and fantasy with 300 million do not fall far behind. They are still over the average of 202 million compared to other genre movies in worldwide gross.
 
-#Profit Vs Budget
+# Profit Vs Budget
 
 ![graphs](./Graphs/Profit_VS_Budget_1.png)
 
